@@ -35,9 +35,4 @@ I'm a passionate Full Stack Developer with a knack for problem-solving and a kee
 ✉️ Let's Connect
 If you are looking for a dynamic Full Stack Developer adept at crafting innovative solutions and driving measurable results, I would love to connect. Let's collaborate and take your projects to new heights!
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Portfolio: [Your Portfolio/Website URL]
-- Email: michael.edy623@gmail.com
-- Phone: [Your Phone Number]
-
 "Building the digital world, one line of code at a time."
