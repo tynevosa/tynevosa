@@ -1,4 +1,4 @@
-# Your Name
+# Michael Edwards
 ## Full Stack Developer | Software Engineer | Problem Solver
 
 ✨ Let's build amazing web experiences together! ✨
