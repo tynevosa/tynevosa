@@ -37,7 +37,7 @@ If you are looking for a dynamic Full Stack Developer adept at crafting innovati
 
 - LinkedIn: [Your LinkedIn Profile URL]
 - Portfolio: [Your Portfolio/Website URL]
-- Email: [Your Email Address]
+- Email: michael.edy623@gmail.com
 - Phone: [Your Phone Number]
 
 "Building the digital world, one line of code at a time."
