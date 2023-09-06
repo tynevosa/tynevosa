@@ -1,7 +1,7 @@
 # Michael Edwards
 ## Python Advocator
 
-I enjoy what I love.  
+### I enjoy what I love.  
 
 #️⃣ Programming languages  
 Python, Javascript, C++, C#, PHP  
