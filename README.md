@@ -1,19 +1,19 @@
 # Michael Edwards
 ## Python Advocator
 
-I enjoy what I love.
+I enjoy what I love.  
 
-#️⃣ Programming languages
-Python, Javascript, C++, C#, PHP
+#️⃣ Programming languages  
+Python, Javascript, C++, C#, PHP  
 
-🌐 Web Frameworks
-Django, Flask, Laravel, CI
+🌐 Web Frameworks  
+Django, Flask, Laravel, CI  
 
-📚 Database
-MySQL, MongoDB, PostgreSQL
+📚 Database  
+MySQL, MongoDB, PostgreSQL  
 
-💻 DevOps
-Docker, Kubernetes, AWS, Azure
+💻 DevOps  
+Docker, Kubernetes, AWS, Azure  
 
-🔧 Tools
+🔧 Tools  
 VS Code, Git
