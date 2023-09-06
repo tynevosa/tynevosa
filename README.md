@@ -7,7 +7,7 @@ I enjoy what I love.
 Python, Javascript, C++, C#, PHP  
 
 🌐 Web Frameworks  
-Django, Flask, Laravel, CI  
+Django, Flask, Laravel, CI, React  
 
 📚 Database  
 MySQL, MongoDB, PostgreSQL  
