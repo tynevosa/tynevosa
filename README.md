@@ -18,5 +18,5 @@ Docker, Kubernetes, AWS, Azure
 🔧 Tools  
 VS Code, Git
 
-☎️ Contact
+☎️ Contact  
 michael.edy623@gmail.com
