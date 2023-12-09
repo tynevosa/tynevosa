@@ -4,10 +4,10 @@
 ### I enjoy what I love.  
 
 #️⃣ Programming languages  
-Python, Javascript, C++, C#, PHP  
+Python, Javascript, C#, PHP  
 
 🌐 Web Frameworks  
-Django, Flask, Laravel, CI, React  
+Django, Express, React, Next  
 
 📚 Database  
 MySQL, MongoDB, PostgreSQL  
@@ -19,4 +19,7 @@ Docker, Kubernetes, AWS, Azure
 VS Code, Git
 
 ☎️ Contact  
-michael.edy623@gmail.com
+email : michael.edy623@gmail.com  
+discord, telegram : @tynevosa  
+whatsapp : +1 802 438 8526  
+skype : live:.cid.54844b5e3fcd00  
